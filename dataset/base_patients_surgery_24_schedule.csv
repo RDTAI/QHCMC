@@ -1,0 +1,25 @@
+Patient ID,Day,Start Time,End Time,Duration (hours),Surgery Type,Emergency
+1,Monday,10:00,13:00,3,Gastrointestinal Surgery,No
+2,Monday,10:00,12:00,2,Otorhinolaryngology Surgery,No
+3,Monday,09:00,10:00,1,Gastrointestinal Surgery,No
+4,Monday,10:00,12:00,2,Otorhinolaryngology Surgery,No
+5,Monday,13:00,16:00,3,Otorhinolaryngology Surgery,No
+6,Monday,15:00,16:00,1,Ophthalmic Surgery,Yes
+7,Monday,09:00,12:00,3,Otorhinolaryngology Surgery,No
+8,Monday,15:00,17:00,2,Urologic Surgery,No
+9,Monday,14:00,17:00,3,Gastrointestinal Surgery,No
+10,Monday,12:00,14:00,2,Urologic Surgery,No
+11,Monday,09:00,11:00,2,General Surgery,No
+12,Monday,14:00,17:00,3,Gastrointestinal Surgery,No
+13,Monday,10:00,12:00,2,Ophthalmic Surgery,No
+14,Monday,12:00,13:00,1,General Surgery,No
+15,Monday,11:00,14:00,3,Gastrointestinal Surgery,No
+16,Monday,11:00,14:00,3,Urologic Surgery,No
+17,Monday,10:00,13:00,3,Ophthalmic Surgery,No
+18,Monday,13:00,14:00,1,Otorhinolaryngology Surgery,No
+19,Monday,13:00,15:00,2,Gastrointestinal Surgery,No
+20,Monday,13:00,15:00,2,General Surgery,No
+21,Monday,14:00,15:00,1,Ophthalmic Surgery,No
+22,Monday,15:00,17:00,2,Gastrointestinal Surgery,No
+23,Monday,14:00,17:00,3,General Surgery,No
+24,Monday,14:00,16:00,2,General Surgery,No

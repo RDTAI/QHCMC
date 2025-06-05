@@ -1,0 +1,165 @@
+Patient ID,Day,Start Time,End Time,Duration (hours),Surgery Type,Emergency
+1,Friday,11:00,12:00,1,Obstetrics and Gynecology Surgery,No
+2,Thursday,12:00,15:00,3,Urologic Surgery,No
+3,Monday,14:00,15:00,1,General Surgery,No
+4,Wednesday,12:00,14:00,2,Obstetrics and Gynecology Surgery,No
+5,Tuesday,16:00,17:00,1,General Surgery,No
+6,Friday,13:00,16:00,3,General Surgery,No
+7,Sunday,16:00,17:00,1,Urologic Surgery,Yes
+8,Wednesday,14:00,17:00,3,General Surgery,No
+9,Sunday,10:00,13:00,3,Urologic Surgery,No
+10,Friday,12:00,15:00,3,Ophthalmic Surgery,No
+11,Tuesday,09:00,12:00,3,General Surgery,No
+12,Monday,10:00,13:00,3,Otorhinolaryngology Surgery,No
+13,Wednesday,11:00,14:00,3,Gastrointestinal Surgery,Yes
+14,Wednesday,10:00,12:00,2,Otorhinolaryngology Surgery,No
+15,Friday,14:00,16:00,2,Otorhinolaryngology Surgery,No
+16,Sunday,11:00,13:00,2,Otorhinolaryngology Surgery,No
+17,Saturday,11:00,12:00,1,Gastrointestinal Surgery,No
+18,Thursday,16:00,17:00,1,Otorhinolaryngology Surgery,No
+19,Saturday,10:00,11:00,1,Ophthalmic Surgery,No
+20,Wednesday,12:00,14:00,2,Gastrointestinal Surgery,No
+21,Wednesday,13:00,15:00,2,Otorhinolaryngology Surgery,No
+22,Tuesday,10:00,12:00,2,Obstetrics and Gynecology Surgery,No
+23,Thursday,09:00,10:00,1,Urologic Surgery,No
+24,Friday,12:00,14:00,2,Urologic Surgery,No
+25,Monday,14:00,17:00,3,General Surgery,No
+26,Sunday,14:00,15:00,1,Otorhinolaryngology Surgery,No
+27,Friday,09:00,10:00,1,Urologic Surgery,No
+28,Thursday,10:00,12:00,2,Urologic Surgery,No
+29,Monday,15:00,17:00,2,Otorhinolaryngology Surgery,No
+30,Friday,13:00,16:00,3,Otorhinolaryngology Surgery,No
+31,Wednesday,11:00,13:00,2,Obstetrics and Gynecology Surgery,No
+32,Saturday,10:00,13:00,3,Gastrointestinal Surgery,No
+33,Wednesday,09:00,11:00,2,Urologic Surgery,No
+34,Wednesday,11:00,14:00,3,Urologic Surgery,No
+35,Sunday,10:00,13:00,3,Otorhinolaryngology Surgery,No
+36,Wednesday,09:00,12:00,3,Ophthalmic Surgery,No
+37,Thursday,15:00,16:00,1,Urologic Surgery,No
+38,Friday,11:00,12:00,1,General Surgery,No
+39,Sunday,15:00,17:00,2,Gastrointestinal Surgery,No
+40,Tuesday,10:00,11:00,1,Otorhinolaryngology Surgery,No
+41,Sunday,12:00,14:00,2,Ophthalmic Surgery,No
+42,Friday,12:00,14:00,2,Ophthalmic Surgery,No
+43,Friday,13:00,16:00,3,Obstetrics and Gynecology Surgery,No
+44,Tuesday,16:00,17:00,1,Gastrointestinal Surgery,No
+45,Thursday,13:00,16:00,3,Obstetrics and Gynecology Surgery,No
+46,Friday,14:00,16:00,2,Gastrointestinal Surgery,No
+47,Thursday,12:00,13:00,1,Ophthalmic Surgery,No
+48,Monday,14:00,17:00,3,Obstetrics and Gynecology Surgery,No
+49,Thursday,09:00,11:00,2,Urologic Surgery,No
+50,Thursday,10:00,13:00,3,Otorhinolaryngology Surgery,No
+51,Friday,14:00,15:00,1,General Surgery,No
+52,Sunday,11:00,12:00,1,Obstetrics and Gynecology Surgery,No
+53,Saturday,10:00,13:00,3,Urologic Surgery,No
+54,Friday,09:00,10:00,1,Urologic Surgery,No
+55,Friday,10:00,13:00,3,Gastrointestinal Surgery,No
+56,Wednesday,16:00,17:00,1,Urologic Surgery,No
+57,Tuesday,16:00,17:00,1,General Surgery,No
+58,Sunday,15:00,17:00,2,General Surgery,No
+59,Monday,10:00,12:00,2,Gastrointestinal Surgery,No
+60,Saturday,12:00,13:00,1,General Surgery,No
+61,Friday,11:00,13:00,2,General Surgery,No
+62,Sunday,09:00,12:00,3,Obstetrics and Gynecology Surgery,No
+63,Friday,09:00,11:00,2,Urologic Surgery,No
+64,Monday,11:00,12:00,1,Otorhinolaryngology Surgery,No
+65,Sunday,09:00,11:00,2,Ophthalmic Surgery,No
+66,Tuesday,11:00,13:00,2,Urologic Surgery,No
+67,Friday,14:00,15:00,1,Ophthalmic Surgery,No
+68,Wednesday,11:00,14:00,3,Gastrointestinal Surgery,No
+69,Tuesday,14:00,16:00,2,Gastrointestinal Surgery,No
+70,Thursday,12:00,14:00,2,Urologic Surgery,No
+71,Thursday,13:00,16:00,3,Ophthalmic Surgery,No
+72,Sunday,14:00,17:00,3,General Surgery,No
+73,Thursday,11:00,12:00,1,Obstetrics and Gynecology Surgery,No
+74,Friday,10:00,13:00,3,Urologic Surgery,No
+75,Friday,09:00,12:00,3,Obstetrics and Gynecology Surgery,No
+76,Wednesday,13:00,15:00,2,Otorhinolaryngology Surgery,No
+77,Saturday,14:00,16:00,2,Gastrointestinal Surgery,No
+78,Friday,11:00,12:00,1,Otorhinolaryngology Surgery,No
+79,Thursday,09:00,10:00,1,Gastrointestinal Surgery,No
+80,Wednesday,10:00,12:00,2,Obstetrics and Gynecology Surgery,No
+81,Thursday,14:00,15:00,1,General Surgery,No
+82,Thursday,10:00,12:00,2,Gastrointestinal Surgery,No
+83,Thursday,11:00,13:00,2,Obstetrics and Gynecology Surgery,No
+84,Sunday,09:00,10:00,1,Ophthalmic Surgery,No
+85,Thursday,11:00,14:00,3,Urologic Surgery,No
+86,Thursday,13:00,16:00,3,Obstetrics and Gynecology Surgery,No
+87,Monday,11:00,13:00,2,Obstetrics and Gynecology Surgery,No
+88,Sunday,11:00,13:00,2,Urologic Surgery,No
+89,Tuesday,13:00,16:00,3,Otorhinolaryngology Surgery,No
+90,Friday,13:00,15:00,2,Gastrointestinal Surgery,No
+91,Sunday,09:00,12:00,3,Urologic Surgery,No
+92,Friday,11:00,14:00,3,Ophthalmic Surgery,No
+93,Wednesday,12:00,15:00,3,Obstetrics and Gynecology Surgery,No
+94,Sunday,14:00,17:00,3,Otorhinolaryngology Surgery,No
+95,Sunday,09:00,12:00,3,Gastrointestinal Surgery,No
+96,Thursday,10:00,11:00,1,General Surgery,No
+97,Thursday,13:00,16:00,3,Gastrointestinal Surgery,Yes
+98,Saturday,12:00,14:00,2,Obstetrics and Gynecology Surgery,No
+99,Thursday,14:00,17:00,3,Obstetrics and Gynecology Surgery,No
+100,Friday,12:00,14:00,2,Urologic Surgery,No
+101,Sunday,10:00,12:00,2,Otorhinolaryngology Surgery,No
+102,Wednesday,13:00,14:00,1,General Surgery,Yes
+103,Saturday,11:00,13:00,2,General Surgery,No
+104,Tuesday,14:00,15:00,1,General Surgery,No
+105,Tuesday,13:00,15:00,2,General Surgery,No
+106,Wednesday,14:00,16:00,2,Ophthalmic Surgery,No
+107,Saturday,13:00,14:00,1,Ophthalmic Surgery,No
+108,Sunday,15:00,17:00,2,Obstetrics and Gynecology Surgery,No
+109,Thursday,13:00,14:00,1,Urologic Surgery,No
+110,Tuesday,10:00,12:00,2,Otorhinolaryngology Surgery,Yes
+111,Saturday,10:00,13:00,3,Ophthalmic Surgery,No
+112,Monday,11:00,14:00,3,Ophthalmic Surgery,No
+113,Friday,11:00,13:00,2,General Surgery,No
+114,Friday,12:00,15:00,3,Urologic Surgery,No
+115,Sunday,12:00,13:00,1,Ophthalmic Surgery,No
+116,Saturday,09:00,10:00,1,Gastrointestinal Surgery,No
+117,Tuesday,13:00,14:00,1,Urologic Surgery,No
+118,Friday,15:00,17:00,2,Obstetrics and Gynecology Surgery,No
+119,Thursday,12:00,15:00,3,Gastrointestinal Surgery,No
+120,Saturday,15:00,17:00,2,General Surgery,No
+121,Wednesday,13:00,15:00,2,Otorhinolaryngology Surgery,No
+122,Monday,13:00,16:00,3,Otorhinolaryngology Surgery,No
+123,Friday,14:00,17:00,3,Gastrointestinal Surgery,No
+124,Saturday,12:00,15:00,3,Urologic Surgery,No
+125,Monday,13:00,14:00,1,General Surgery,No
+126,Sunday,09:00,11:00,2,Obstetrics and Gynecology Surgery,No
+127,Thursday,09:00,12:00,3,Obstetrics and Gynecology Surgery,No
+128,Friday,09:00,10:00,1,Obstetrics and Gynecology Surgery,No
+129,Thursday,14:00,16:00,2,General Surgery,No
+130,Saturday,13:00,16:00,3,General Surgery,No
+131,Thursday,11:00,14:00,3,Gastrointestinal Surgery,No
+132,Monday,16:00,17:00,1,Gastrointestinal Surgery,No
+133,Thursday,14:00,16:00,2,Obstetrics and Gynecology Surgery,No
+134,Tuesday,10:00,13:00,3,Otorhinolaryngology Surgery,No
+135,Wednesday,16:00,17:00,1,Obstetrics and Gynecology Surgery,No
+136,Friday,14:00,15:00,1,Gastrointestinal Surgery,No
+137,Sunday,12:00,15:00,3,Ophthalmic Surgery,No
+138,Tuesday,13:00,14:00,1,General Surgery,No
+139,Wednesday,14:00,15:00,1,Urologic Surgery,No
+140,Saturday,09:00,10:00,1,Urologic Surgery,No
+141,Thursday,12:00,15:00,3,Obstetrics and Gynecology Surgery,No
+142,Wednesday,10:00,11:00,1,General Surgery,No
+143,Sunday,13:00,15:00,2,Urologic Surgery,No
+144,Friday,13:00,14:00,1,Ophthalmic Surgery,No
+145,Tuesday,11:00,12:00,1,Ophthalmic Surgery,No
+146,Tuesday,14:00,17:00,3,Gastrointestinal Surgery,No
+147,Tuesday,10:00,13:00,3,Ophthalmic Surgery,No
+148,Wednesday,09:00,12:00,3,Obstetrics and Gynecology Surgery,Yes
+149,Thursday,11:00,12:00,1,Urologic Surgery,No
+150,Monday,13:00,16:00,3,Otorhinolaryngology Surgery,No
+151,Tuesday,12:00,15:00,3,General Surgery,No
+152,Saturday,12:00,13:00,1,Urologic Surgery,No
+153,Saturday,11:00,12:00,1,Obstetrics and Gynecology Surgery,No
+154,Thursday,14:00,16:00,2,Gastrointestinal Surgery,No
+155,Monday,09:00,11:00,2,Ophthalmic Surgery,No
+156,Thursday,14:00,16:00,2,Obstetrics and Gynecology Surgery,No
+157,Saturday,11:00,14:00,3,Otorhinolaryngology Surgery,Yes
+158,Thursday,15:00,16:00,1,Urologic Surgery,No
+159,Saturday,13:00,15:00,2,General Surgery,No
+160,Saturday,09:00,11:00,2,General Surgery,Yes
+161,Sunday,12:00,14:00,2,General Surgery,No
+162,Tuesday,13:00,14:00,1,Obstetrics and Gynecology Surgery,No
+163,Thursday,11:00,13:00,2,Otorhinolaryngology Surgery,No
+164,Monday,12:00,13:00,1,General Surgery,No

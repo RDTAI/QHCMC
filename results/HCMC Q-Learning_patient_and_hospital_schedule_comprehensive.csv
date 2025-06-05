@@ -1,0 +1,26 @@
+Patient ID,Hospital,Original Day,Original Start Time,Original End Time,End Day,Final Start Time,Final End Time,Doctor ID,Operating Room,Surgery Type,Duration (hours),Delay Time,Satisfaction,Fatigue
+1.0,H03,Monday,15:00,17:00,Monday,15:00,17:00,D19,OR20,Urologic Surgery,2.0,0.0,10.0,2.0
+2.0,H03,Monday,12:00,15:00,Monday,12:00,15:00,D18,OR20,Ophthalmic Surgery,3.0,0.0,10.0,3.0
+3.0,H03,Monday,16:00,17:00,Monday,16:00,17:00,D16,OR28,Obstetrics and Gynecology Surgery,1.0,0.0,10.0,1.0
+,,,11:00,12:00,,11:00,12:00,D18,,Break,1.0,0.0,0.0,1.0
+4.0,H03,Monday,09:00,11:00,Monday,09:00,11:00,D38,OR22,Ophthalmic Surgery,2.0,0.0,10.0,2.0
+5.0,H03,Monday,09:00,10:00,Monday,09:00,10:00,D15,OR25,General Surgery,1.0,0.0,10.0,1.0
+6.0,H03,Monday,09:00,10:00,Monday,09:00,10:00,D17,OR28,Otorhinolaryngology Surgery,1.0,0.0,10.0,1.0
+7.0,H03,Monday,09:00,11:00,Monday,09:00,11:00,D40,OR22,General Surgery,2.0,0.0,10.0,2.0
+8.0,H03,Monday,10:00,12:00,Monday,10:00,12:00,D22,OR27,Obstetrics and Gynecology Surgery,2.0,0.0,10.0,2.0
+9.0,H03,Monday,13:00,14:00,Monday,13:00,14:00,D38,OR22,Ophthalmic Surgery,1.0,0.0,10.0,3.0
+10.0,H03,Monday,09:00,12:00,Monday,09:00,12:00,D36,OR21,Urologic Surgery,3.0,0.0,10.0,3.0
+11.0,H03,Monday,09:00,11:00,Monday,09:00,11:00,D18,OR26,Ophthalmic Surgery,2.0,0.0,10.0,2.0
+12.0,H03,Monday,11:00,14:00,Monday,11:00,14:00,D44,OR25,Gastrointestinal Surgery,3.0,0.0,10.0,3.0
+13.0,H03,Monday,15:00,17:00,Monday,15:00,17:00,D20,OR20,Gastrointestinal Surgery,2.0,0.0,10.0,2.0
+14.0,H03,Monday,11:00,13:00,Monday,11:00,13:00,D40,OR23,General Surgery,2.0,0.0,10.0,4.0
+15.0,H03,Monday,11:00,12:00,Monday,11:00,12:00,D37,OR24,General Surgery,1.0,0.0,10.0,1.0
+16.0,H03,Monday,11:00,12:00,Monday,11:00,12:00,D16,OR24,Obstetrics and Gynecology Surgery,1.0,0.0,10.0,2.0
+,,,15:00,16:00,,15:00,16:00,D16,,Break,1.0,0.0,0.0,0.5
+17.0,H03,Monday,12:00,15:00,Monday,12:00,15:00,D16,OR21,Obstetrics and Gynecology Surgery,3.0,0.0,10.0,3.0
+18.0,H03,Monday,14:00,15:00,Monday,14:00,15:00,D15,OR27,General Surgery,1.0,0.0,10.0,2.0
+,,,17:00,18:00,,17:00,18:00,D38,,Break,1.0,0.0,0.0,1.0
+19.0,H03,Monday,13:00,16:00,Monday,14:00,17:00,D38,OR27,Ophthalmic Surgery,3.0,1.0,9.0,3.0
+20.0,H03,Monday,14:00,17:00,Monday,14:00,17:00,D39,OR21,Gastrointestinal Surgery,3.0,0.0,10.0,3.0
+21.0,H03,Monday,10:00,11:00,Monday,10:00,11:00,D21,OR26,Urologic Surgery,1.0,0.0,10.0,1.0
+22.0,H03,Monday,12:00,14:00,Monday,12:00,14:00,D21,OR26,Urologic Surgery,2.0,0.0,10.0,3.0

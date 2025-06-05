@@ -1,0 +1,228 @@
+Patient ID,Hospital,Original Day,Original Start Time,Original End Time,End Day,Final Start Time,Final End Time,Doctor ID,Operating Room,Surgery Type,Duration (hours),Delay Time,Satisfaction,Fatigue
+1.0,H01,Sunday,13:00,15:00,Sunday,13:00,15:00,D03,OR08,Otorhinolaryngology Surgery,2.0,0.0,90.0,2.0
+2.0,H03,Tuesday,09:00,12:00,Tuesday,09:00,12:00,D18,OR24,Ophthalmic Surgery,3.0,0.0,90.0,3.0
+3.0,H01,Saturday,13:00,14:00,Saturday,13:00,14:00,D24,OR07,Obstetrics and Gynecology Surgery,1.0,0.0,90.0,1.0
+4.0,H01,Thursday,14:00,17:00,Thursday,14:00,17:00,D05,OR05,Urologic Surgery,3.0,0.0,90.0,3.0
+5.0,H01,Wednesday,09:00,12:00,Wednesday,09:00,12:00,D04,OR07,Ophthalmic Surgery,3.0,0.0,90.0,3.0
+6.0,H01,Thursday,14:00,17:00,Thursday,14:00,17:00,D23,OR01,General Surgery,3.0,0.0,90.0,3.0
+7.0,H01,Thursday,13:00,16:00,Thursday,13:00,16:00,D28,OR03,Gastrointestinal Surgery,3.0,0.0,90.0,3.0
+8.0,H03,Sunday,13:00,14:00,Sunday,13:00,14:00,D22,OR20,Obstetrics and Gynecology Surgery,1.0,0.0,90.0,1.0
+9.0,H03,Tuesday,14:00,15:00,Tuesday,14:00,15:00,D21,OR23,Urologic Surgery,1.0,0.0,90.0,1.0
+10.0,H01,Saturday,14:00,17:00,Saturday,14:00,17:00,D02,OR06,Obstetrics and Gynecology Surgery,3.0,0.0,90.0,3.0
+11.0,H03,Friday,12:00,14:00,Friday,12:00,14:00,D35,OR21,Otorhinolaryngology Surgery,2.0,0.0,90.0,2.0
+12.0,H03,Sunday,14:00,17:00,Sunday,14:00,17:00,D35,OR29,Otorhinolaryngology Surgery,3.0,0.0,90.0,5.0
+13.0,H01,Saturday,11:00,14:00,Saturday,11:00,14:00,D26,OR09,Ophthalmic Surgery,3.0,0.0,90.0,3.0
+14.0,H01,Tuesday,10:00,11:00,Tuesday,10:00,11:00,D24,OR01,Obstetrics and Gynecology Surgery,1.0,0.0,90.0,2.0
+15.0,H01,Saturday,14:00,17:00,Saturday,14:00,17:00,D27,OR09,Urologic Surgery,3.0,0.0,90.0,3.0
+16.0,H01,Monday,14:00,15:00,Monday,14:00,15:00,D04,OR04,Ophthalmic Surgery,1.0,0.0,90.0,4.0
+17.0,H03,Thursday,13:00,16:00,Thursday,13:00,16:00,D20,OR25,Gastrointestinal Surgery,3.0,0.0,90.0,3.0
+18.0,H01,Saturday,09:00,12:00,Saturday,09:00,12:00,D02,OR08,Obstetrics and Gynecology Surgery,3.0,0.0,90.0,6.0
+19.0,H01,Friday,14:00,17:00,Friday,14:00,17:00,D24,OR02,Obstetrics and Gynecology Surgery,3.0,0.0,90.0,5.0
+20.0,H01,Friday,12:00,15:00,Friday,14:00,17:00,D26,OR07,Ophthalmic Surgery,3.0,2.0,88.0,6.0
+21.0,H01,Wednesday,15:00,17:00,Wednesday,15:00,17:00,D01,OR08,General Surgery,2.0,0.0,90.0,2.0
+22.0,H03,Friday,10:00,11:00,Friday,10:00,11:00,D40,OR20,General Surgery,1.0,0.0,90.0,1.0
+23.0,H01,Wednesday,10:00,12:00,Wednesday,10:00,12:00,D01,OR03,General Surgery,2.0,0.0,90.0,4.0
+24.0,H01,Friday,12:00,15:00,Friday,17:00,22:00,D23,OR01,General Surgery,5.0,5.0,85.0,8.0
+,H01,Sunday,21:00,22:00,Sunday,21:00,22:00,D02,,Break,1.0,0.0,0.0,0.0
+25.0,H01,Sunday,14:00,16:00,Sunday,17:00,21:00,D02,OR08,Obstetrics and Gynecology Surgery,4.0,3.0,87.0,4.0
+,H01,Saturday,22:00,23:00,Saturday,22:00,23:00,D24,,Break,1.0,0.0,0.0,0.0
+26.0,H01,Saturday,14:00,17:00,Saturday,17:00,22:00,D24,OR06,Obstetrics and Gynecology Surgery,5.0,3.0,87.0,5.0
+27.0,H03,Saturday,10:00,12:00,Saturday,10:00,12:00,D15,OR28,General Surgery,2.0,0.0,90.0,2.0
+28.0,H01,Monday,15:00,17:00,Monday,15:00,17:00,D04,OR04,Ophthalmic Surgery,2.0,0.0,90.0,6.0
+,H01,Tuesday,22:00,23:00,Tuesday,22:00,23:00,D01,,Break,1.0,0.0,0.0,0.0
+29.0,H01,Tuesday,12:00,15:00,Tuesday,17:00,22:00,D01,OR04,General Surgery,5.0,5.0,85.0,5.0
+30.0,H03,Sunday,11:00,12:00,Sunday,11:00,12:00,D38,OR22,Ophthalmic Surgery,1.0,0.0,90.0,1.0
+31.0,H01,Friday,12:00,15:00,Friday,16:00,21:00,D06,OR03,Gastrointestinal Surgery,5.0,4.0,86.0,5.0
+32.0,H01,Tuesday,11:00,12:00,Tuesday,11:00,12:00,D25,OR05,Otorhinolaryngology Surgery,1.0,0.0,90.0,1.0
+33.0,H03,Friday,10:00,13:00,Friday,10:00,13:00,D37,OR23,General Surgery,3.0,0.0,90.0,3.0
+34.0,H03,Thursday,16:00,17:00,Thursday,16:00,17:00,D20,OR21,Gastrointestinal Surgery,1.0,0.0,90.0,4.0
+35.0,H03,Tuesday,15:00,17:00,Tuesday,15:00,17:00,D41,OR20,Obstetrics and Gynecology Surgery,2.0,0.0,90.0,2.0
+36.0,H01,Thursday,11:00,12:00,Thursday,12:00,13:00,D04,OR03,Ophthalmic Surgery,1.0,1.0,89.0,7.0
+,H01,Tuesday,03:00,04:00,Tuesday,03:00,04:00,D02,,Break,1.0,0.0,0.0,0.0
+37.0,H01,Tuesday,12:00,15:00,Tuesday,22:00,03:00,D02,OR02,Obstetrics and Gynecology Surgery,5.0,10.0,80.0,5.0
+38.0,H03,Monday,15:00,16:00,Monday,15:00,16:00,D19,OR28,Urologic Surgery,1.0,0.0,90.0,1.0
+39.0,H03,Wednesday,11:00,14:00,Wednesday,11:00,14:00,D16,OR27,Obstetrics and Gynecology Surgery,3.0,0.0,90.0,3.0
+40.0,H03,Wednesday,10:00,13:00,Wednesday,12:00,15:00,D38,OR26,Ophthalmic Surgery,3.0,2.0,88.0,4.0
+41.0,H01,Sunday,15:00,17:00,Sunday,17:00,19:00,D25,OR07,Otorhinolaryngology Surgery,2.0,2.0,88.0,3.0
+42.0,H01,Thursday,14:00,16:00,Thursday,17:00,19:00,D26,OR02,Ophthalmic Surgery,2.0,3.0,87.0,8.0
+43.0,H01,Saturday,12:00,14:00,Saturday,12:00,14:00,D06,OR05,Gastrointestinal Surgery,2.0,0.0,90.0,7.0
+44.0,H01,Saturday,11:00,13:00,Saturday,11:00,13:00,D24,OR02,Obstetrics and Gynecology Surgery,2.0,0.0,90.0,7.0
+45.0,H03,Saturday,10:00,13:00,Saturday,10:00,13:00,D21,OR25,Urologic Surgery,3.0,0.0,90.0,4.0
+,H01,Tuesday,12:00,13:00,Tuesday,12:00,13:00,D23,,Break,1.0,0.0,0.0,0.0
+46.0,H01,Tuesday,11:00,12:00,Tuesday,11:00,12:00,D23,OR06,General Surgery,1.0,0.0,90.0,1.0
+47.0,H01,Monday,11:00,13:00,Monday,11:00,13:00,D28,OR01,Gastrointestinal Surgery,2.0,0.0,90.0,5.0
+48.0,H01,Thursday,14:00,17:00,Thursday,22:00,03:00,D23,OR01,General Surgery,5.0,8.0,82.0,6.0
+49.0,H03,Wednesday,14:00,16:00,Wednesday,14:00,16:00,D36,OR21,Urologic Surgery,2.0,0.0,90.0,2.0
+50.0,H03,Thursday,14:00,16:00,Thursday,15:00,17:30,D21,OR22,Urologic Surgery,2.5,1.0,89.0,6.5
+51.0,H03,Friday,10:00,12:00,Friday,10:00,12:00,D35,OR26,Otorhinolaryngology Surgery,2.0,0.0,90.0,7.0
+52.0,H03,Monday,15:00,17:00,Monday,15:00,17:00,D39,OR23,Gastrointestinal Surgery,2.0,0.0,90.0,2.0
+53.0,H03,Friday,14:00,15:00,Friday,14:00,15:00,D19,OR22,Urologic Surgery,1.0,0.0,90.0,2.0
+54.0,H03,Thursday,13:00,14:00,Thursday,13:00,14:00,D40,OR24,General Surgery,1.0,0.0,90.0,2.0
+,H01,Friday,03:00,04:00,Friday,03:00,04:00,D02,,Break,1.0,0.0,0.0,0.0
+55.0,H01,Friday,11:00,14:00,Friday,22:00,03:00,D02,OR06,Obstetrics and Gynecology Surgery,5.0,11.0,79.5,5.0
+56.0,H01,Saturday,09:00,11:00,Saturday,09:00,11:00,D25,OR04,Otorhinolaryngology Surgery,2.0,0.0,90.0,5.0
+,H01,Tuesday,20:00,21:00,Tuesday,20:00,21:00,D04,,Break,1.0,0.0,0.0,0.0
+57.0,H01,Tuesday,10:00,13:00,Tuesday,17:00,20:00,D04,OR05,Ophthalmic Surgery,3.0,7.0,83.0,3.0
+58.0,H03,Monday,09:00,12:00,Monday,09:00,12:00,D41,OR21,Obstetrics and Gynecology Surgery,3.0,0.0,90.0,5.0
+59.0,H01,Sunday,11:00,12:00,Sunday,11:00,12:00,D06,OR04,Gastrointestinal Surgery,1.0,0.0,90.0,8.0
+,H01,Sunday,01:00,02:00,Sunday,01:00,02:00,D23,,Break,1.0,0.0,0.0,0.0
+60.0,H01,Sunday,14:00,15:00,Sunday,22:00,01:00,D23,OR02,General Surgery,3.0,8.0,82.0,3.0
+61.0,H01,Tuesday,13:00,14:00,Tuesday,13:00,14:00,D05,OR04,Urologic Surgery,1.0,0.0,90.0,4.0
+62.0,H03,Thursday,13:00,14:00,Thursday,13:00,14:00,D18,OR29,Ophthalmic Surgery,1.0,0.0,90.0,4.0
+,H01,Sunday,21:00,22:00,Sunday,21:00,22:00,D28,,Break,1.0,0.0,0.0,0.0
+,H01,Sunday,01:00,02:00,Sunday,01:00,02:00,D06,,Break,1.0,0.0,0.0,0.0
+63.0,H01,Sunday,10:00,12:00,Sunday,21:00,01:00,D06,OR02,Gastrointestinal Surgery,4.0,11.0,79.5,4.0
+64.0,H03,Saturday,13:00,16:00,Saturday,14:00,17:00,D17,OR24,Otorhinolaryngology Surgery,3.0,1.0,89.0,3.0
+65.0,H03,Saturday,12:00,13:00,Saturday,12:00,13:00,D39,OR20,Gastrointestinal Surgery,1.0,0.0,90.0,3.0
+66.0,H01,Saturday,15:00,16:00,Saturday,17:00,19:00,D05,OR09,Urologic Surgery,2.0,2.0,88.0,6.0
+67.0,H03,Friday,16:00,17:00,Friday,16:00,17:00,D38,OR25,Ophthalmic Surgery,1.0,0.0,90.0,5.0
+,H01,Wednesday,00:00,01:00,Wednesday,00:00,01:00,D05,,Break,1.0,0.0,0.0,0.0
+68.0,H01,Wednesday,12:00,15:00,Wednesday,19:00,00:00,D05,OR09,Urologic Surgery,5.0,7.0,83.0,5.0
+69.0,H01,Wednesday,12:00,15:00,Wednesday,22:00,03:00,D23,OR04,General Surgery,5.0,10.0,80.0,8.0
+70.0,H03,Sunday,11:00,13:00,Sunday,14:00,16:00,D18,OR27,Ophthalmic Surgery,2.0,3.0,87.0,6.0
+71.0,H01,Wednesday,12:00,15:00,Wednesday,19:00,00:00,D27,OR09,Urologic Surgery,5.0,7.0,83.0,8.0
+72.0,H01,Thursday,13:00,14:00,Thursday,13:00,14:00,D25,OR01,Otorhinolaryngology Surgery,1.0,0.0,90.0,6.0
+73.0,H03,Saturday,15:00,17:00,Saturday,15:00,17:00,D44,OR26,Gastrointestinal Surgery,2.0,0.0,90.0,2.0
+74.0,H01,Sunday,12:00,14:00,Sunday,12:00,14:00,D02,OR06,Obstetrics and Gynecology Surgery,2.0,0.0,90.0,7.0
+75.0,H03,Monday,11:00,13:00,Monday,11:00,13:00,D22,OR29,Obstetrics and Gynecology Surgery,2.0,0.0,90.0,3.0
+76.0,H03,Friday,12:00,14:00,Friday,12:00,14:00,D19,OR22,Urologic Surgery,2.0,0.0,90.0,4.0
+77.0,H01,Thursday,10:00,11:00,Thursday,10:00,11:00,D03,OR09,Otorhinolaryngology Surgery,1.0,0.0,90.0,3.0
+,H01,Saturday,21:00,22:00,Saturday,21:00,22:00,D26,,Break,1.0,0.0,0.0,0.0
+78.0,H01,Saturday,14:00,16:00,Saturday,19:00,21:00,D26,OR09,Ophthalmic Surgery,2.0,5.0,85.0,2.0
+79.0,H03,Saturday,13:00,14:00,Saturday,13:00,14:00,D44,OR28,Gastrointestinal Surgery,1.0,0.0,90.0,3.0
+80.0,H01,Monday,14:00,16:00,Monday,21:00,01:00,D06,OR09,Gastrointestinal Surgery,4.0,7.0,83.0,8.0
+,H01,Thursday,03:00,04:00,Thursday,03:00,04:00,D02,,Break,1.0,0.0,0.0,0.0
+81.0,H01,Thursday,09:00,12:00,Thursday,22:00,03:00,D02,OR09,Obstetrics and Gynecology Surgery,5.0,13.0,78.5,5.0
+82.0,H01,Wednesday,14:00,15:00,Wednesday,21:00,22:00,D04,OR07,Ophthalmic Surgery,1.0,7.0,83.0,4.0
+,H01,Saturday,02:00,03:00,Saturday,02:00,03:00,D06,,Break,1.0,0.0,0.0,0.0
+83.0,H01,Saturday,10:00,13:00,Saturday,21:00,02:00,D06,OR09,Gastrointestinal Surgery,5.0,11.0,79.5,5.0
+,H01,Thursday,02:00,03:00,Thursday,02:00,03:00,D06,,Break,1.0,0.0,0.0,0.0
+84.0,H01,Thursday,12:00,15:00,Thursday,21:00,02:00,D06,OR08,Gastrointestinal Surgery,5.0,9.0,81.0,5.0
+85.0,H03,Wednesday,09:00,10:00,Wednesday,09:00,10:00,D36,OR20,Urologic Surgery,1.0,0.0,90.0,3.0
+86.0,H01,Monday,11:00,13:00,Monday,19:00,21:00,D03,OR02,Otorhinolaryngology Surgery,2.0,8.0,82.0,5.0
+87.0,H03,Thursday,11:00,12:00,Thursday,16:00,19:00,D16,OR27,Obstetrics and Gynecology Surgery,3.0,5.0,85.0,6.0
+88.0,H03,Friday,10:00,13:00,Friday,16:00,21:00,D22,OR28,Obstetrics and Gynecology Surgery,5.0,6.0,84.0,8.0
+,H03,Friday,22:00,23:00,Friday,22:00,23:00,D20,,Break,1.0,0.0,0.0,0.0
+89.0,H03,Friday,09:00,12:00,Friday,17:00,22:00,D20,OR26,Gastrointestinal Surgery,5.0,8.0,82.0,5.0
+90.0,H03,Friday,12:00,15:00,Friday,17:00,22:00,D15,OR21,General Surgery,5.0,5.0,85.0,7.0
+91.0,H01,Saturday,10:00,11:00,Saturday,10:00,11:00,D06,OR05,Gastrointestinal Surgery,1.0,0.0,90.0,6.0
+92.0,H01,Friday,09:00,11:00,Friday,09:00,11:00,D28,OR06,Gastrointestinal Surgery,2.0,0.0,90.0,2.0
+93.0,H03,Thursday,13:00,14:00,Thursday,13:00,14:00,D41,OR23,Obstetrics and Gynecology Surgery,1.0,0.0,90.0,6.0
+94.0,H03,Friday,13:00,15:00,Friday,17:00,19:00,D18,OR25,Ophthalmic Surgery,2.0,4.0,86.0,8.0
+95.0,H03,Monday,13:00,15:00,Monday,17:00,19:00,D17,OR20,Otorhinolaryngology Surgery,2.0,4.0,86.0,5.0
+96.0,H03,Sunday,13:00,15:00,Sunday,17:00,21:00,D40,OR23,General Surgery,4.0,4.0,86.0,6.0
+,H03,Sunday,20:00,21:00,Sunday,20:00,21:00,D35,,Break,1.0,0.0,0.0,0.0
+97.0,H03,Sunday,10:00,13:00,Sunday,17:00,20:00,D35,OR24,Otorhinolaryngology Surgery,3.0,7.0,83.0,3.0
+,H01,Thursday,01:00,02:00,Thursday,01:00,02:00,D05,,Break,1.0,0.0,0.0,0.0
+,H01,Thursday,01:00,02:00,Thursday,01:00,02:00,D27,,Break,1.0,0.0,0.0,0.0
+98.0,H01,Thursday,09:00,12:00,Thursday,21:00,02:00,D27,OR05,Urologic Surgery,5.0,12.0,79.0,5.0
+99.0,H03,Wednesday,11:00,14:00,Wednesday,19:00,22:00,D17,OR27,Otorhinolaryngology Surgery,3.0,8.0,82.0,8.0
+100.0,H03,Monday,09:00,12:00,Monday,17:00,22:00,D39,OR29,Gastrointestinal Surgery,5.0,8.0,82.0,8.0
+101.0,H03,Sunday,13:00,15:00,Sunday,18:00,22:00,D44,OR22,Gastrointestinal Surgery,4.0,5.0,85.0,7.0
+,H01,Thursday,23:00,00:00,Thursday,23:00,00:00,D25,,Break,1.0,0.0,0.0,0.0
+102.0,H01,Thursday,10:00,13:00,Thursday,21:00,00:00,D25,OR09,Otorhinolaryngology Surgery,3.0,11.0,79.5,3.0
+103.0,H03,Tuesday,15:00,17:00,Tuesday,19:00,23:00,D37,OR25,General Surgery,4.0,4.0,86.0,7.0
+104.0,H01,Wednesday,14:00,15:00,Wednesday,19:00,20:00,D25,OR07,Otorhinolaryngology Surgery,1.0,5.0,85.0,4.0
+,H03,Monday,23:00,00:00,Monday,23:00,00:00,D41,,Break,1.0,0.0,0.0,0.0
+,H03,Monday,23:00,00:00,Monday,23:00,00:00,D16,,Break,1.0,0.0,0.0,0.0
+105.0,H03,Monday,10:00,12:00,Monday,20:00,00:00,D41,OR20,Obstetrics and Gynecology Surgery,4.0,10.0,80.0,4.0
+,H01,Thursday,02:00,03:00,Thursday,02:00,03:00,D23,,Break,1.0,0.0,0.0,0.0
+106.0,H01,Thursday,09:00,11:00,Thursday,22:00,02:00,D23,OR01,General Surgery,4.0,13.0,78.5,4.0
+,H03,Sunday,03:00,04:00,Sunday,03:00,04:00,D44,,Break,1.0,0.0,0.0,0.0
+107.0,H03,Sunday,12:00,15:00,Sunday,22:00,03:00,D44,OR29,Gastrointestinal Surgery,5.0,10.0,80.0,5.0
+108.0,H03,Sunday,14:00,15:00,Sunday,14:00,15:00,D44,OR28,Gastrointestinal Surgery,1.0,0.0,90.0,6.0
+109.0,H01,Tuesday,15:00,16:00,Tuesday,22:00,01:00,D23,OR08,General Surgery,3.0,7.0,83.0,7.0
+,H01,Tuesday,01:00,02:00,Tuesday,01:00,02:00,D06,,Break,1.0,0.0,0.0,0.0
+110.0,H01,Tuesday,09:00,11:00,Tuesday,21:00,01:00,D06,OR08,Gastrointestinal Surgery,4.0,12.0,79.0,4.0
+,H03,Wednesday,01:00,02:00,Wednesday,01:00,02:00,D40,,Break,1.0,0.0,0.0,0.0
+111.0,H03,Wednesday,15:00,17:00,Wednesday,21:00,01:00,D40,OR23,General Surgery,4.0,6.0,84.0,4.0
+,H01,Monday,03:00,04:00,Monday,03:00,04:00,D02,,Break,1.0,0.0,0.0,0.0
+112.0,H01,Monday,13:00,16:00,Monday,22:00,03:00,D02,OR01,Obstetrics and Gynecology Surgery,5.0,9.0,81.0,5.0
+113.0,H01,Monday,09:00,11:00,Monday,09:00,11:00,D26,OR02,Ophthalmic Surgery,2.0,0.0,90.0,4.0
+,H03,Sunday,03:00,04:00,Sunday,03:00,04:00,D39,,Break,1.0,0.0,0.0,0.0
+114.0,H03,Sunday,10:00,13:00,Sunday,22:00,03:00,D39,OR20,Gastrointestinal Surgery,5.0,12.0,79.0,5.0
+115.0,H03,Thursday,14:00,17:00,Thursday,21:00,00:00,D35,OR23,Otorhinolaryngology Surgery,3.0,7.0,83.0,6.0
+116.0,H01,Sunday,14:00,16:00,Sunday,20:00,00:00,D05,OR05,Urologic Surgery,4.0,6.0,84.0,4.0
+117.0,H03,Monday,13:00,14:00,Monday,22:00,01:00,D39,OR20,Gastrointestinal Surgery,3.0,9.0,81.0,8.0
+118.0,H03,Thursday,14:00,15:00,Thursday,14:00,15:00,D37,OR20,General Surgery,1.0,0.0,90.0,8.0
+,H03,Tuesday,00:00,01:00,Tuesday,00:00,01:00,D35,,Break,1.0,0.0,0.0,0.0
+119.0,H03,Tuesday,14:00,17:00,Tuesday,21:00,00:00,D35,OR28,Otorhinolaryngology Surgery,3.0,7.0,83.0,3.0
+120.0,H01,Monday,09:00,11:00,Monday,22:00,00:00,D04,OR01,Ophthalmic Surgery,2.0,13.0,78.5,6.0
+121.0,H03,Saturday,16:00,17:00,Saturday,19:00,21:30,D19,OR20,Urologic Surgery,2.5,3.0,87.0,6.5
+122.0,H03,Wednesday,11:00,12:00,Wednesday,11:00,12:00,D40,OR20,General Surgery,1.0,0.0,90.0,5.0
+123.0,H03,Saturday,12:00,13:00,Saturday,12:00,13:00,D36,OR24,Urologic Surgery,1.0,0.0,90.0,4.0
+,H01,Sunday,00:00,01:00,Sunday,00:00,01:00,D27,,Break,1.0,0.0,0.0,0.0
+124.0,H01,Sunday,14:00,16:00,Sunday,20:00,00:00,D05,OR05,Urologic Surgery,4.0,6.0,84.0,8.0
+125.0,H01,Monday,13:00,16:00,Monday,20:00,23:00,D25,OR05,Otorhinolaryngology Surgery,3.0,7.0,83.0,7.0
+126.0,H03,Sunday,10:00,11:00,Sunday,10:00,11:00,D36,OR29,Urologic Surgery,1.0,0.0,90.0,5.0
+,H03,Friday,02:00,03:00,Friday,02:00,03:00,D40,,Break,1.0,0.0,0.0,0.0
+127.0,H03,Friday,13:00,16:00,Friday,21:00,02:00,D40,OR24,General Surgery,5.0,8.0,82.0,5.0
+,H03,Saturday,01:00,02:00,Saturday,01:00,02:00,D39,,Break,1.0,0.0,0.0,0.0
+128.0,H03,Saturday,15:00,16:00,Saturday,22:00,01:00,D39,OR23,Gastrointestinal Surgery,3.0,7.0,83.0,3.0
+,H03,Friday,01:00,02:00,Friday,01:00,02:00,D40,,Break,1.0,0.0,0.0,0.0
+129.0,H03,Friday,09:00,11:00,Friday,21:00,01:00,D40,OR24,General Surgery,4.0,12.0,79.0,4.0
+130.0,H03,Wednesday,14:00,16:00,Wednesday,20:00,22:00,D38,OR24,Ophthalmic Surgery,2.0,6.0,84.0,7.0
+131.0,H03,Saturday,09:00,10:00,Saturday,09:00,10:00,D16,OR27,Obstetrics and Gynecology Surgery,1.0,0.0,90.0,1.0
+132.0,H01,Tuesday,14:00,17:00,Tuesday,21:00,02:00,D27,OR09,Urologic Surgery,5.0,7.0,83.0,5.0
+133.0,H03,Friday,11:00,14:00,Friday,21:00,00:00,D35,OR28,Otorhinolaryngology Surgery,3.0,10.0,80.0,6.0
+134.0,H01,Thursday,09:00,10:00,Thursday,09:00,10:00,D06,OR03,Gastrointestinal Surgery,1.0,0.0,90.0,5.0
+,H01,Wednesday,01:00,02:00,Wednesday,01:00,02:00,D06,,Break,1.0,0.0,0.0,0.0
+135.0,H01,Wednesday,10:00,12:00,Wednesday,21:00,01:00,D06,OR02,Gastrointestinal Surgery,4.0,11.0,79.5,4.0
+,H03,Friday,02:00,03:00,Friday,02:00,03:00,D44,,Break,1.0,0.0,0.0,0.0
+136.0,H03,Friday,11:00,13:00,Friday,22:00,02:00,D44,OR22,Gastrointestinal Surgery,4.0,11.0,79.5,4.0
+137.0,H03,Monday,11:00,13:00,Monday,21:00,23:00,D35,OR28,Otorhinolaryngology Surgery,2.0,10.0,80.0,8.0
+138.0,H01,Monday,11:00,12:00,Monday,22:00,01:00,D02,OR07,Obstetrics and Gynecology Surgery,3.0,11.0,79.5,8.0
+,H03,Friday,13:00,14:00,Friday,13:00,14:00,D17,,Break,1.0,0.0,0.0,0.0
+139.0,H03,Friday,11:00,12:00,Friday,22:00,23:00,D17,OR20,Otorhinolaryngology Surgery,1.0,11.0,79.5,1.0
+140.0,H03,Thursday,10:00,11:00,Thursday,10:00,11:00,D39,OR22,Gastrointestinal Surgery,1.0,0.0,90.0,4.0
+141.0,H03,Wednesday,09:00,10:00,Wednesday,09:00,10:00,D38,OR25,Ophthalmic Surgery,1.0,0.0,90.0,8.0
+142.0,H01,Saturday,09:00,12:00,Saturday,22:00,01:00,D26,OR07,Ophthalmic Surgery,3.0,13.0,78.5,7.0
+,H01,Saturday,01:00,02:00,Saturday,01:00,02:00,D05,,Break,1.0,0.0,0.0,0.0
+143.0,H01,Saturday,15:00,17:00,Saturday,21:00,01:00,D05,OR08,Urologic Surgery,4.0,6.0,84.0,4.0
+,H01,Saturday,03:00,04:00,Saturday,03:00,04:00,D23,,Break,1.0,0.0,0.0,0.0
+144.0,H01,Saturday,12:00,15:00,Saturday,22:00,03:00,D23,OR06,General Surgery,5.0,10.0,80.0,5.0
+145.0,H01,Thursday,15:00,16:00,Thursday,22:00,01:00,D23,OR03,General Surgery,3.0,7.0,83.0,8.0
+,H03,Tuesday,02:00,03:00,Tuesday,02:00,03:00,D22,,Break,1.0,0.0,0.0,0.0
+,H03,Tuesday,02:00,03:00,Tuesday,02:00,03:00,D41,,Break,1.0,0.0,0.0,0.0
+146.0,H03,Tuesday,11:00,14:00,Tuesday,21:00,02:00,D16,OR23,Obstetrics and Gynecology Surgery,5.0,10.0,80.0,6.0
+,H03,Saturday,00:00,01:00,Saturday,00:00,01:00,D21,,Break,1.0,0.0,0.0,0.0
+147.0,H03,Saturday,11:00,12:00,Saturday,21:00,00:00,D36,OR23,Urologic Surgery,3.0,10.0,80.0,8.0
+148.0,H03,Monday,16:00,17:00,Monday,21:00,00:00,D40,OR23,General Surgery,3.0,5.0,85.0,7.0
+,H01,Friday,02:00,03:00,Friday,02:00,03:00,D02,,Break,1.0,0.0,0.0,0.0
+149.0,H01,Friday,10:00,12:00,Friday,22:00,02:00,D02,OR03,Obstetrics and Gynecology Surgery,4.0,12.0,79.0,4.0
+,H03,Sunday,02:00,03:00,Sunday,02:00,03:00,D35,,Break,1.0,0.0,0.0,0.0
+150.0,H03,Sunday,12:00,15:00,Sunday,23:00,02:00,D35,OR22,Otorhinolaryngology Surgery,3.0,11.0,79.5,3.0
+151.0,H01,Monday,14:00,17:00,Monday,21:00,00:00,D03,OR09,Otorhinolaryngology Surgery,3.0,7.0,83.0,8.0
+,H01,Monday,00:00,01:00,Monday,00:00,01:00,D03,,Break,1.0,0.0,0.0,0.0
+152.0,H01,Monday,11:00,14:00,Monday,21:00,00:00,D03,OR08,Otorhinolaryngology Surgery,3.0,10.0,80.0,3.0
+153.0,H01,Sunday,10:00,11:00,Sunday,22:00,01:00,D02,OR02,Obstetrics and Gynecology Surgery,3.0,12.0,79.0,7.0
+,H01,Sunday,01:00,02:00,Sunday,01:00,02:00,D02,,Break,1.0,0.0,0.0,0.0
+154.0,H01,Sunday,11:00,12:00,Sunday,22:00,01:00,D02,OR04,Obstetrics and Gynecology Surgery,3.0,11.0,79.5,3.0
+155.0,H01,Wednesday,09:00,10:00,Wednesday,09:00,10:00,D03,OR09,Otorhinolaryngology Surgery,1.0,0.0,90.0,4.0
+156.0,H01,Friday,11:00,12:00,Friday,12:00,13:00,D25,OR07,Otorhinolaryngology Surgery,1.0,1.0,89.0,8.0
+157.0,H01,Wednesday,15:00,16:00,Wednesday,22:00,01:00,D02,OR09,Obstetrics and Gynecology Surgery,3.0,7.0,83.0,6.0
+,H03,Saturday,01:00,02:00,Saturday,01:00,02:00,D36,,Break,1.0,0.0,0.0,0.0
+158.0,H03,Saturday,09:00,11:00,Saturday,21:00,01:00,D21,OR23,Urologic Surgery,4.0,12.0,79.0,4.0
+159.0,H01,Wednesday,14:00,17:00,Wednesday,21:00,00:00,D03,OR03,Otorhinolaryngology Surgery,3.0,7.0,83.0,7.0
+,H01,Saturday,02:00,03:00,Saturday,02:00,03:00,D02,,Break,1.0,0.0,0.0,0.0
+160.0,H01,Saturday,09:00,11:00,Saturday,22:00,02:00,D02,OR08,Obstetrics and Gynecology Surgery,4.0,13.0,78.5,4.0
+161.0,H03,Friday,11:00,13:00,Friday,23:00,01:00,D35,OR25,Otorhinolaryngology Surgery,2.0,12.0,79.0,5.0
+162.0,H03,Friday,12:00,13:00,Friday,12:00,13:00,D44,OR28,Gastrointestinal Surgery,1.0,0.0,90.0,5.0
+,H03,Thursday,00:00,01:00,Thursday,00:00,01:00,D18,,Break,1.0,0.0,0.0,0.0
+163.0,H03,Thursday,10:00,13:00,Thursday,22:00,01:00,D18,OR23,Ophthalmic Surgery,3.0,12.0,79.0,3.0
+,H01,Wednesday,03:00,04:00,Wednesday,03:00,04:00,D23,,Break,1.0,0.0,0.0,0.0
+164.0,H01,Wednesday,11:00,14:00,Wednesday,22:00,03:00,D23,OR03,General Surgery,5.0,11.0,79.5,5.0
+165.0,H03,Friday,10:00,12:00,Friday,21:00,01:00,D21,OR23,Urologic Surgery,4.0,11.0,79.5,8.0
+,H03,Sunday,03:00,04:00,Sunday,03:00,04:00,D39,,Break,1.0,0.0,0.0,0.0
+166.0,H03,Sunday,14:00,17:00,Sunday,22:00,03:00,D39,OR29,Gastrointestinal Surgery,5.0,8.0,82.0,5.0
+167.0,H03,Thursday,10:00,12:00,Thursday,21:00,01:00,D36,OR23,Urologic Surgery,4.0,11.0,79.5,4.0
+,H03,Monday,03:00,04:00,Monday,03:00,04:00,D44,,Break,1.0,0.0,0.0,0.0
+168.0,H03,Monday,12:00,15:00,Monday,22:00,03:00,D44,OR27,Gastrointestinal Surgery,5.0,10.0,80.0,5.0
+169.0,H03,Sunday,12:00,13:00,Sunday,21:00,00:00,D22,OR23,Obstetrics and Gynecology Surgery,3.0,9.0,81.0,3.0
+170.0,H01,Thursday,15:00,17:00,Thursday,21:00,01:00,D05,OR09,Urologic Surgery,4.0,6.0,84.0,8.0
+171.0,H01,Thursday,14:00,15:00,Thursday,21:00,22:00,D03,OR02,Otorhinolaryngology Surgery,1.0,7.0,83.0,8.0
+172.0,H03,Friday,13:00,14:00,Friday,21:00,00:00,D36,OR23,Urologic Surgery,3.0,8.0,82.0,7.0
+,H01,Saturday,01:00,02:00,Saturday,01:00,02:00,D26,,Break,1.0,0.0,0.0,0.0
+173.0,H01,Saturday,09:00,12:00,Saturday,22:00,01:00,D26,OR08,Ophthalmic Surgery,3.0,13.0,78.5,3.0
+,H01,Tuesday,23:00,00:00,Tuesday,23:00,00:00,D03,,Break,1.0,0.0,0.0,0.0
+174.0,H01,Tuesday,13:00,14:00,Tuesday,22:00,23:00,D03,OR02,Otorhinolaryngology Surgery,1.0,9.0,81.0,1.0

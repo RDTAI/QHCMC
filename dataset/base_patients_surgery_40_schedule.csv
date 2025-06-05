@@ -1,0 +1,41 @@
+Patient ID,Day,Start Time,End Time,Duration (hours),Surgery Type,Emergency
+1,Monday,09:00,12:00,3,Ophthalmic Surgery,No
+2,Monday,12:00,14:00,2,General Surgery,No
+3,Monday,12:00,13:00,1,Obstetrics and Gynecology Surgery,No
+4,Monday,14:00,16:00,2,Gastrointestinal Surgery,No
+5,Monday,15:00,17:00,2,Urologic Surgery,No
+6,Monday,10:00,12:00,2,Gastrointestinal Surgery,No
+7,Monday,11:00,14:00,3,Ophthalmic Surgery,No
+8,Monday,12:00,15:00,3,General Surgery,No
+9,Monday,15:00,16:00,1,Ophthalmic Surgery,No
+10,Monday,13:00,16:00,3,Gastrointestinal Surgery,No
+11,Monday,09:00,10:00,1,Obstetrics and Gynecology Surgery,No
+12,Monday,12:00,15:00,3,Urologic Surgery,No
+13,Monday,10:00,12:00,2,Urologic Surgery,No
+14,Monday,10:00,12:00,2,Otorhinolaryngology Surgery,No
+15,Monday,13:00,15:00,2,General Surgery,No
+16,Monday,13:00,15:00,2,General Surgery,No
+17,Monday,09:00,12:00,3,Otorhinolaryngology Surgery,No
+18,Monday,10:00,11:00,1,Obstetrics and Gynecology Surgery,No
+19,Monday,12:00,14:00,2,General Surgery,No
+20,Monday,13:00,16:00,3,Urologic Surgery,No
+21,Monday,09:00,10:00,1,Gastrointestinal Surgery,No
+22,Monday,15:00,17:00,2,General Surgery,No
+23,Monday,14:00,16:00,2,Urologic Surgery,No
+24,Monday,09:00,12:00,3,General Surgery,No
+25,Monday,14:00,15:00,1,Obstetrics and Gynecology Surgery,No
+26,Monday,09:00,11:00,2,Obstetrics and Gynecology Surgery,No
+27,Monday,11:00,13:00,2,Ophthalmic Surgery,No
+28,Monday,09:00,12:00,3,Ophthalmic Surgery,No
+29,Monday,12:00,15:00,3,Obstetrics and Gynecology Surgery,No
+30,Monday,12:00,14:00,2,Obstetrics and Gynecology Surgery,Yes
+31,Monday,09:00,11:00,2,Obstetrics and Gynecology Surgery,No
+32,Monday,12:00,13:00,1,Ophthalmic Surgery,No
+33,Monday,16:00,17:00,1,Gastrointestinal Surgery,No
+34,Monday,12:00,14:00,2,Otorhinolaryngology Surgery,No
+35,Monday,11:00,12:00,1,Urologic Surgery,No
+36,Monday,14:00,17:00,3,Urologic Surgery,No
+37,Monday,12:00,15:00,3,Otorhinolaryngology Surgery,No
+38,Monday,10:00,13:00,3,General Surgery,No
+39,Monday,11:00,13:00,2,General Surgery,Yes
+40,Monday,14:00,15:00,1,Otorhinolaryngology Surgery,No

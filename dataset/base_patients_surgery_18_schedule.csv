@@ -1,0 +1,19 @@
+Patient ID,Day,Start Time,End Time,Duration (hours),Surgery Type,Emergency
+1,Monday,12:00,14:00,2,Urologic Surgery,No
+2,Monday,13:00,16:00,3,General Surgery,No
+3,Monday,14:00,16:00,2,Urologic Surgery,No
+4,Monday,15:00,16:00,1,General Surgery,No
+5,Monday,12:00,13:00,1,Otorhinolaryngology Surgery,No
+6,Monday,14:00,16:00,2,Otorhinolaryngology Surgery,No
+7,Monday,10:00,13:00,3,General Surgery,No
+8,Monday,14:00,16:00,2,Obstetrics and Gynecology Surgery,No
+9,Monday,13:00,16:00,3,Ophthalmic Surgery,No
+10,Monday,09:00,10:00,1,General Surgery,No
+11,Monday,14:00,15:00,1,Urologic Surgery,No
+12,Monday,11:00,14:00,3,Ophthalmic Surgery,No
+13,Monday,16:00,17:00,1,Gastrointestinal Surgery,No
+14,Monday,10:00,11:00,1,Urologic Surgery,No
+15,Monday,10:00,13:00,3,Otorhinolaryngology Surgery,No
+16,Monday,14:00,17:00,3,General Surgery,No
+17,Monday,14:00,15:00,1,Otorhinolaryngology Surgery,No
+18,Monday,10:00,11:00,1,Ophthalmic Surgery,No
