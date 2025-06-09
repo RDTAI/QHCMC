@@ -36,7 +36,7 @@ def calculate_metrics(file_path, num_doctors, schedule_df, percentiles):
         print(f"Overtime Rate (OTR): {OTR * 100}%")
 
 def main():
-    num_patient = 50
+    num_patient = 40
     schedule_df = pd.read_csv(f'dataset/base_patients_surgery_{num_patient}_schedule.csv')
     hospital_data = {
         'H01': {
