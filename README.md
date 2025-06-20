@@ -22,7 +22,25 @@ To run the program, clone the repository and execute the main script:
 ```bash
 git clone https://github.com/RDTAI/QHCMC.git
 cd QHCMC
-python main.py
-
+python main.py --num_hospitals 3 --num_patients 50 --method QL --a 1 --b 1
 ```
   
+## Results Display
+
+Upon successful execution, the program will display key results that demonstrate the performance of the scheduling algorithms:
+
+- **Training Rewards and Scores**: Shows the evolution of rewards, patient satisfaction scores, healthcare worker fatigue scores, and G-scores over the training episodes. These metrics indicate how well the agent is learning to optimize the schedule.
+
+- **Evaluation Metrics**: Summarizes the final evaluation results, including:
+  - Average scheduling delay
+  - Patient satisfaction level
+  - Doctor fatigue level
+  - Overall G-score (a composite measure of schedule quality)
+
+- **Optimal Schedule**: Outputs the best schedule found by the algorithm, along with its G-score, demonstrating the effectiveness of the optimization.
+
+If the results show decreasing delays, increasing satisfaction, and manageable fatigue scores, it indicates a successful run. Visualizations such as reward curves or metric trends may also be generated to help analyze the convergence and performance of the algorithms.
+
+### Example of what you might see:
+
+![](results/Q-Learning_50_3.png)
