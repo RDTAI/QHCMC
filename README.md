@@ -42,5 +42,4 @@ Upon successful execution, the program will display key results that demonstrate
 If the results show decreasing delays, increasing satisfaction, and manageable fatigue scores, it indicates a successful run. Visualizations such as reward curves or metric trends may also be generated to help analyze the convergence and performance of the algorithms.
 
 ### Example of what you might see:
-
-![](results/Q-Learning_50_3.png)
+<img src="results/Q-Learning_50_3.png" width="600"/>
